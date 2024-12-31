@@ -134,6 +134,10 @@ Details regarding project assignment can be found at:
 
 * [VSB UPR projects](https://github.com/geordi/upr-course/blob/master/faq/projects.md)
 
+My Github repository:
+
+* [TGA-photoshop](https://github.com/fajlestik-null/TGA-photoshop)
+
 ## License
 
 ``` 
