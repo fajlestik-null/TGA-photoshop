@@ -1,5 +1,5 @@
 # Cmake version requirements
-cmake_minimum_required(VERSION 3.4)
+cmake_minimum_required(VERSION 3.5)
 
 # Project name
 project(photo_c)
