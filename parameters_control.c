@@ -80,7 +80,7 @@ int order_counter(int num)
 
 int str_digit(char *str)
 {
-    for (int i = 0; i < strlen(str); i++)
+    for (int i = 0; i < (int)strlen(str); i++)
     {
         if (str[i] == '-' && strlen(str) == 1)
         {
