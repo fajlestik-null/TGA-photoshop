@@ -136,7 +136,7 @@ Details regarding project assignment can be found at:
 
 My Github repository:
 
-* [TGA-photoshop](https://github.com/fajlestik-null/TGA-photoshop)
+* [TGA-photoshop](https://github.com/fajlestik-null/TGA-photoshop.git)
 
 ## License
 
